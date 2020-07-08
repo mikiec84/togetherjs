@@ -33,7 +33,7 @@
     "grunt": "~0.4.1",
     "grunt-contrib-copy": "~0.4.1",
     "grunt-http-server": "~0.0.5",
-    "nunjucks": "~0.1.8a",
+    "nunjucks": "~3.2.1",
     "marked": "~0.2.9",
     "docco": "~0.6.2",
     "highlight.js": "~7.3.0",
